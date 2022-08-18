@@ -1,0 +1,24 @@
+body {
+  background-color: #ABA8A9;
+  color: #1C67D2;
+  text-align: center;
+}
+
+button {
+  background: #CBF83E;
+  color: #1C67D2;
+  padding: 5px 20px;
+  font-size: 1.1em;
+  border: 1px solid #CBF83E;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+.counter {
+  font-size: 2em;
+  color: #CBF83E;
+}
